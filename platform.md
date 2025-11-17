@@ -24,26 +24,28 @@ Note: for some libraries, we use .* to indicate any patch version may be used (w
 
 #### Python Libraries
 
-- gitdb 4.0.*
-- GitPython 3.1.*
-- flask 2.3.3
-- flask-cors 6.0.1
-- flask-restful 0.3.10
-- Flask-SocketIO 5.3.6
-- google-auth 2.16.1
-- google-cloud-bigquery 3.37.0
-- google-cloud-bigquery-storage 2.33.1
-- ipywidgets 8.0.*
-- matplotlib 3.9.*
-- mysql-connector-python 9.3.0
-- numpy 2.1.*
-- pandas 2.2.*
-- requests 2.32.*
-- scikit-learn 1.5.*
-- seaborn 0.13.*
-- sshtunnel 0.4.0
-- statsmodels 0.14.*
-- tensorflow 2.17.*
+| Package                                                                                  | Version                                 |
+| ---                                                                                      | ---                                     |
+| [gitdb](https://pypi.org/project/gitdb/)                                                 | [4.0.*](https://pypi.org/project/gitdb/4.0.12/) |
+| [GitPython](https://pypi.org/project/GitPython/)                                         | [3.1.*](https://pypi.org/project/GitPython/3.1.44/) |
+| [flask](https://pypi.org/project/Flask/)                                                 | [2.3.3](https://pypi.org/project/Flask/2.3.3/) |
+| [flask-cors](https://pypi.org/project/flask-cors/)                                       | [6.0.1](https://pypi.org/project/flask-cors/6.0.1/) |
+| [flask-restful](https://pypi.org/project/Flask-RESTful/)                                 | [0.3.10](https://pypi.org/project/Flask-RESTful/0.3.10/) |
+| [Flask-SocketIO](https://pypi.org/project/Flask-SocketIO/)                               | [5.3.6](https://pypi.org/project/Flask-SocketIO/5.3.6/) |
+| [google-auth](https://pypi.org/project/google-auth/)                                     | [2.16.1](https://pypi.org/project/google-auth/2.16.1/) |
+| [google-cloud-bigquery](https://pypi.org/project/google-cloud-bigquery/)                 | [3.37.0](https://pypi.org/project/google-cloud-bigquery/3.37.0) |
+| [google-cloud-bigquery-storage](https://pypi.org/project/google-cloud-bigquery-storage/) | [2.33.1](https://pypi.org/project/google-cloud-bigquery-storage/2.33.1) |
+| [ipywidgets](https://pypi.org/project/ipywidgets/)                                       | [8.0.*](https://pypi.org/project/ipywidgets/8.0.7) |
+| [matplotlib](https://pypi.org/project/matplotlib/)                                       | [3.9.*](https://pypi.org/project/matplotlib/3.9.4) |
+| [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)               | [9.3.0](https://pypi.org/project/mysql-connector-python/9.3.0) |
+| [numpy](https://pypi.org/project/numpy/)                                                 | [2.1.*](https://pypi.org/project/numpy/2.1.3) |
+| [pandas](https://pypi.org/project/pandas/)                                               | [2.2.*](https://pypi.org/project/pandas/2.2.3) |
+| [requests](https://pypi.org/project/requests/)                                           | [2.32.*](https://pypi.org/project/requests/2.32.5) |
+| [scikit-learn](https://pypi.org/project/scikit-learn/)                                   | [1.5.*](https://pypi.org/project/scikit-learn/1.5.2) |
+| [seaborn](https://pypi.org/project/seaborn/)                                             | [0.13.*](https://pypi.org/project/seaborn/0.13.2) |
+| [sshtunnel](https://pypi.org/project/sshtunnel/)                                         | [0.4.0](https://pypi.org/project/sshtunnel/0.4.0) |
+| [statsmodels](https://pypi.org/project/statsmodels/)                                     | [0.14.*](https://pypi.org/project/statsmodels/0.14.5) |
+| [tensorflow](https://pypi.org/project/tensorflow/)                                       | [2.17.*](https://pypi.org/project/tensorflow/2.17.1) |
 
 #### Python Build Tools
 
