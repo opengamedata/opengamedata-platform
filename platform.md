@@ -54,7 +54,7 @@ Note: for some libraries, we use .* to indicate any patch version may be used (w
 | [build](https://pypi.org/project/build/)                                         | [1.2.*](https://pypi.org/project/build/1.2.2.post1/) |
 | [setuptools](https://setuptools.pypa.io/en/latest/)                              | [74.1.*](https://pypi.org/project/setuptools/74.1.3/) |
 | [setuptools-git-versioning](https://pypi.org/project/setuptools-git-versioning/) | [2.0.*](https://pypi.org/project/setuptools-git-versioning/2.0.0/) |
-| [twine](https://pypi.org/project/twine/)                                         | [5.1.*](https://pypi.org/project/twine/5.1.1/) |
+| [twine](https://pypi.org/project/twine/)                                         | [5.1.1](https://pypi.org/project/twine/5.1.1/) |
 | [wheel](https://pypi.org/project/wheel/)                                         | [0.44.*](https://pypi.org/project/wheel/0.44.0/) |
 
 - build 1.2.*
