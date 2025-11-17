@@ -28,7 +28,7 @@ Note: for some libraries, we use .* to indicate any patch version may be used (w
 | ---                                                                                      | ---                                     |
 | [gitdb](https://pypi.org/project/gitdb/)                                                 | [4.0.*](https://pypi.org/project/gitdb/4.0.12/) |
 | [GitPython](https://pypi.org/project/GitPython/)                                         | [3.1.*](https://pypi.org/project/GitPython/3.1.44/) |
-| [flask](https://pypi.org/project/Flask/)                                                 | [2.3.3](https://pypi.org/project/Flask/2.3.3/) |
+| [flask](https://flask.palletsprojects.com/en/stable/)                                    | [2.3.3](https://pypi.org/project/Flask/2.3.3/) |
 | [flask-cors](https://pypi.org/project/flask-cors/)                                       | [6.0.1](https://pypi.org/project/flask-cors/6.0.1/) |
 | [flask-restful](https://pypi.org/project/Flask-RESTful/)                                 | [0.3.10](https://pypi.org/project/Flask-RESTful/0.3.10/) |
 | [Flask-SocketIO](https://pypi.org/project/Flask-SocketIO/)                               | [5.3.6](https://pypi.org/project/Flask-SocketIO/5.3.6/) |
@@ -36,16 +36,16 @@ Note: for some libraries, we use .* to indicate any patch version may be used (w
 | [google-cloud-bigquery](https://pypi.org/project/google-cloud-bigquery/)                 | [3.37.0](https://pypi.org/project/google-cloud-bigquery/3.37.0) |
 | [google-cloud-bigquery-storage](https://pypi.org/project/google-cloud-bigquery-storage/) | [2.33.1](https://pypi.org/project/google-cloud-bigquery-storage/2.33.1) |
 | [ipywidgets](https://pypi.org/project/ipywidgets/)                                       | [8.0.*](https://pypi.org/project/ipywidgets/8.0.7) |
-| [matplotlib](https://pypi.org/project/matplotlib/)                                       | [3.9.*](https://pypi.org/project/matplotlib/3.9.4) |
+| [matplotlib](https://matplotlib.org/)                                                    | [3.9.*](https://pypi.org/project/matplotlib/3.9.4) |
 | [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)               | [9.3.0](https://pypi.org/project/mysql-connector-python/9.3.0) |
-| [numpy](https://pypi.org/project/numpy/)                                                 | [2.1.*](https://pypi.org/project/numpy/2.1.3) |
-| [pandas](https://pypi.org/project/pandas/)                                               | [2.2.*](https://pypi.org/project/pandas/2.2.3) |
+| [numpy](https://numpy.org/)                                                              | [2.1.*](https://pypi.org/project/numpy/2.1.3) |
+| [pandas](https://pandas.pydata.org/)                                                     | [2.2.*](https://pypi.org/project/pandas/2.2.3) |
 | [requests](https://pypi.org/project/requests/)                                           | [2.32.*](https://pypi.org/project/requests/2.32.5) |
-| [scikit-learn](https://pypi.org/project/scikit-learn/)                                   | [1.5.*](https://pypi.org/project/scikit-learn/1.5.2) |
-| [seaborn](https://pypi.org/project/seaborn/)                                             | [0.13.*](https://pypi.org/project/seaborn/0.13.2) |
+| [scikit-learn](https://scikit-learn.org/stable/)                                         | [1.5.*](https://pypi.org/project/scikit-learn/1.5.2) |
+| [seaborn](http://seaborn.pydata.org/)                                                    | [0.13.*](https://pypi.org/project/seaborn/0.13.2) |
 | [sshtunnel](https://pypi.org/project/sshtunnel/)                                         | [0.4.0](https://pypi.org/project/sshtunnel/0.4.0) |
-| [statsmodels](https://pypi.org/project/statsmodels/)                                     | [0.14.*](https://pypi.org/project/statsmodels/0.14.5) |
-| [tensorflow](https://pypi.org/project/tensorflow/)                                       | [2.17.*](https://pypi.org/project/tensorflow/2.17.1) |
+| [statsmodels](https://www.statsmodels.org/)                                              | [0.14.*](https://pypi.org/project/statsmodels/0.14.5) |
+| [tensorflow](https://www.tensorflow.org/)                                                | [2.17.*](https://pypi.org/project/tensorflow/2.17.1) |
 
 #### Python Build Tools
 
