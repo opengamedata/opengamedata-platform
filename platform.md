@@ -57,12 +57,6 @@ Note: for some libraries, we use .* to indicate any patch version may be used (w
 | [twine](https://pypi.org/project/twine/)                                         | [5.1.1](https://pypi.org/project/twine/5.1.1/) |
 | [wheel](https://pypi.org/project/wheel/)                                         | [0.44.*](https://pypi.org/project/wheel/0.44.0/) |
 
-- build 1.2.*
-- setuptools 74.1.*
-- setuptools-git-versioning 2.0.*
-- twine 5.1.*
-- wheel 0.44.*
-
 ### JavaScript
 
 - nodejs v22
