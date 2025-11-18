@@ -106,14 +106,16 @@ Note: for some libraries, we use .* to indicate any patch version may be used (w
 
 ### GitHub Actions
 
-- actions/checkout@v4
-- actions/cache/save@v4
-- actions/cache/restore@v4
-- actions/upload-artifact@v4
-- actions/setup-node@v4.4.0
-- actions/setup-python@v5.3
-- burnett01/rsync-deployments@7.0.1
-- google-github-actions/auth@v3
+| Package                                                                     | Version                                 |
+| ---                                                                         | ---                                     |
+| [actions/checkout](https://github.com/actions/checkout)                     | [v4](https://github.com/actions/checkout/releases/tag/v4.3.1) |
+| [actions/cache/save](https://github.com/actions/cache/)                     | [v4](https://github.com/actions/cache/releases/tag/v4.3.0) |
+| [actions/cache/restore](https://github.com/actions/cache)                   | [v4](https://github.com/actions/cache/releases/tag/v4.3.0) |
+| [actions/upload-artifact](https://github.com/actions/upload-artifact)       | [v4](https://github.com/actions/upload-artifact/releases/tag/v4.6.2) |
+| [actions/setup-node](https://github.com/actions/setup-node)                 | [v4.4.0](https://github.com/actions/setup-node/releases/tag/v4.4.0) |
+| [actions/setup-python](https://github.com/actions/setup-python)             | [v5.3](https://github.com/actions/setup-python/releases/tag/v5.3.0) |
+| [burnett01/rsync-deployment](https://github.com/burnett01/rsync-deployment) | [7.0.1](https://github.com/burnett01/rsync-deployment/releases/tag/7.0.1) |
+| [google-github-actions/auth](https://github.com/google-github-actions/auth) | [v3](https://github.com/google-github-actions/auth/releases/tag/v3) |
 
 ## OpenGameData Tools & Libraries - Compatible with Platform
 
